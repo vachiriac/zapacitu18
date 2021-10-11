@@ -5,7 +5,5 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 17 year old developer from Iasi, Romania
 - 📫 How to reach me: instagram: @andrei.chiriac07 email: andreichiriac0528@gmail.com
-- 🌱 I’m currently learning React 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sports!:D
+- 🌱 I’m currently learning Web Design
 
